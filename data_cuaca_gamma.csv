@@ -1,6 +1,3 @@
-latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
--6.5729346,106.775826,247.0,25200,Asia/Jakarta,GMT+7
-
 time,weather_code (wmo code),temperature_2m_mean (°C),sunshine_duration (s),temperature_2m_max (°C),temperature_2m_min (°C),rain_sum (mm),precipitation_hours (h),wind_speed_10m_max (km/h),wind_direction_10m_dominant (°),shortwave_radiation_sum (MJ/m²)
 2025-01-01,63,24.7,30926.09,28.0,22.3,23.50,11.0,19.4,244,14.82
 2025-01-02,51,26.1,39330.75,31.0,21.0,0.20,2.0,11.8,254,22.96
